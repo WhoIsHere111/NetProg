@@ -1,0 +1,4 @@
+daytime_client
+*.o
+*.out
+a.out
