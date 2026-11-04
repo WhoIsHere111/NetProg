@@ -1,0 +1,4 @@
+echo_client
+*.o
+*.out
+a.out
